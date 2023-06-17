@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/nndl_data/NNDL_important_things/NNDL_Image Folder
+train:  /content/drive/MyDrive/nndl_data/NNDL_important_things/NNDL_Root_Folder/NNDL_Train
+val:  /content/drive/MyDrive/nndl_data/NNDL_important_things/NNDL_Root_Folder/NNDL_Test
+
+nc: 11
+names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
+
